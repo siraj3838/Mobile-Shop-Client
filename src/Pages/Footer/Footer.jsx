@@ -4,7 +4,7 @@ const Footer = () => {
         <div className="bg-[#000000e1] pb-5">
             <footer className="footer p-10 text-neutral-content max-w-screen-xl mx-auto">
                 <aside>
-                    <img src="https://i.ibb.co/dKnsPKK/Screenshot-2023-12-20-140449-removebg-preview.png" alt="" />
+                    <img src="https://i.ibb.co/dKnsPKK/Screenshot-2023-12-20-140449-removebg-preview.png" alt="logo" />
                     <p>DEV TOWN Industries Ltd.<br />Providing reliable tech since</p>
                 </aside>
                 <nav className="lg:ml-[800px]">
