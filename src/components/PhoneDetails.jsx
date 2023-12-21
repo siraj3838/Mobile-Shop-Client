@@ -57,6 +57,10 @@ const PhoneDetails = () => {
                     <button onClick={buyNowHandle} className="hover:bg-[#eb8d22ec] bg-[#eb8d22ec] border-0 border-b-4 hover:border-gray-600 border-gray-600 text-white font-semibold hover:scale-110 duration-400 transition-all py-2 px-5 w-2/4 rounded-md">Buy Now</button>
                 </div>
             </div>
+            <hr className="my-3" />
+            <div className="max-w-screen-xl mx-auto">
+                <p className="text-gray-500">{nowPhone?.details}</p>
+            </div>
         </div>
     );
 };

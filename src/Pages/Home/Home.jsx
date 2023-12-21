@@ -14,7 +14,7 @@ const Home = () => {
         const searchText = form.searchText.value;
         setSearch(searchText);
     }
-    
+
 
     return (
         <div>
@@ -24,7 +24,7 @@ const Home = () => {
             </form>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-x-16 gap-y-5 max-w-screen-xl mx-auto my-10 px-5">
                 {
-                    phones.map((phone, idx) => <div className="flex flex-col justify-center items-center border-2 shadow-lg py-3 rounded-md" key={idx}>
+                    phones?.map((phone, idx) => <div className="flex flex-col justify-center items-center border-2 shadow-lg py-3 rounded-md" key={idx}>
                         <div className="">
                             <img className="h-[212px]" src={phone?.img} alt="" />
                         </div>
