@@ -8,11 +8,11 @@ import {
 import Root from './Root/Root';
 import ErrorPage from './Pages/ErrorPage/ErrorPage';
 import Home from './Pages/Home/Home';
-import AddPhone from './Pages/AddPhone/AddPhone';
 import {
   QueryClient,
   QueryClientProvider,
 } from '@tanstack/react-query'
+import PhoneDetails from './components/PhoneDetails';
 
 const router = createBrowserRouter([
   {
@@ -25,8 +25,8 @@ const router = createBrowserRouter([
         element: <Home></Home>
       },
       {
-        path: '/addPhone',
-        element: <AddPhone></AddPhone>
+        path: '/details/:id',
+        element: <PhoneDetails></PhoneDetails>
       }
     ]
   },

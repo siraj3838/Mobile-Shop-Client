@@ -1,152 +1,152 @@
 [
-    {
-      "price": 13499,
-      "name": "Realme C67 5G",
-      "type": "Smartphone",
-      "processor": "Dimensity 6100+ 5G Chipset",
-      "memory": "128GB Storage",
-      "OS": "Android 13",
-      "details": "Realme C67 5G price starts from 13499. Realme C67 5G internal storage base variant of 4 GB, 6 GB Ram, 128 GB Internal Memory (ROM). Realme C67 5G which is available in Sunny Oasis, Dark Purple colour.",
-      "img": "https://i.ibb.co/bP5RPVG/1701853156155a108438623ad41aaa47d42a5ac637db5-removebg-preview.png"
-    },
-    {
-      "price": 7999,
-      "name": "Realme C51",
-      "type": "Smartphone",
-      "processor": "Octa-core",
-      "memory": "64GB Storage",
-      "OS": "Android 13",
-      "details": "Realme C51 mobile was launched on 4th September 2023. The phone comes with a 90 Hz refresh rate 6.74-inch touchscreen display offering a resolution of 720x1600 pixels (HD). Realme C51 is powered by an octa-core Unisoc T612 processor. It comes with 4GB of RAM. The Realme C51 runs Android Android 13 and is powered by a 5000mAh non-removable battery. The Realme C51 supports 33W Fast Charging fast charging.",
-      "img": "https://i.ibb.co/XVwzhkz/16934543672112ab05f9df9a54e288460109ed2c55e29-removebg-preview.png"
-    },
-    {
-      "price": 32000,
-      "name": "Samsung Galaxy A15 5G",
-      "type": "Smartphone",
-      "processor": "Mediatek Dimensity 6100+ (6 nm)",
-      "memory": "128GB Storage",
-      "OS": "Android 14",
-      "details": "Samsung Galaxy A15 5G price in India is expected to be from 32000. This mobile is rumoured to be an excellent phone with Mediatek MT6765 Helio P35 (12nm) processor, 6 GB of RAM, and 64 GB/128 GB of storage.",
-      "img": "https://i.ibb.co/P5XWC8y/samsung-galaxy-a15-5g-new-removebg-preview.png"
-    },
-    {
-      "price": 85999,
-      "name": "Samsung Galaxy Tab S9+",
-      "type": "Tablet",
-      "processor": "Qualcomm Snapdragon 8 Gen 2 SoC for Galaxy",
-      "memory": "256GB Storage",
-      "OS": "Android 13",
-      "details": "Samsung Galaxy Tab S9+ tablet was launched on 26th July 2023. The tablet comes with a 12.40-inch touchscreen display. Samsung Galaxy Tab S9+ is powered by an octa-core Qualcomm Snapdragon 8 Gen 2 SoC for Galaxy processor. It comes with 12GB of RAM. The Samsung Galaxy Tab S9+ runs Android 13 and is powered by a 10090mAh battery.",
-      "img": "https://i.ibb.co/vk675CK/samsung-galaxy-tab-s9-plus-5g-removebg-preview.png"
-    },
-    {
-      "price": 108999,
-      "name": "Samsung Galaxy Z Fold4",
-      "type": "Smartphone",
-      "processor": "Octa core",
-      "memory": "256GB RAM",
-      "OS": "Android 12L",
-      "details": "Samsung Galaxy Z Fold 4 5G price in India starts from Rs. 108,999. The lowest price of Samsung Galaxy Z Fold 4 5G is Rs. 108,999 at amazon.in. This is 12 GB RAM / 256 GB internal storage base variant of Samsung Galaxy Z Fold 4 5G which is available in Graygreen, Phantom Black, Beige, Burgundy colour.",
-      "img": "https://i.ibb.co/93fHV1g/samsung-galaxy-z-fold4-removebg-preview.png"
-    },
-    {
-      "price": 27999,
-      "name": "Samsung Galaxy Tab S6 Lite",
-      "type": "Tablet",
-      "processor": "1.7GHz octa-core",
-      "memory": "64GB Storage",
-      "OS": "Android 10",
-      "details": "The Galaxy Tab S6 Lite is a new addition to Samsung's tablet lineup. As its name suggests, this is a less expensive version of the Samsung Galaxy Tab S6, which I reviewed late last year. The Galaxy Tab S6 is very pricey but has an AMOLED display, quad speakers and a powerful processor, whereas the Galaxy Tab S6 Lite has a TFT display, dual speakers, and a somewhat weaker processor. The Galaxy Tab S6 Lite is available in Wi-Fi and LTE versions, priced at Rs. 27,999 and Rs. 31,999 respectively. Samsung has obviously had to cut costs with this new ‘Lite' version, but is it still good enough to recommend? Read on to find out.",
-      "img": "https://i.ibb.co/WD6fgmb/galaxy-tab-s6-lite-2022-lte-sm-p619-removebg-preview.png"
-    },
-    {
-      "price": 15149,
-      "name": "Samsung Galaxy F42 5G",
-      "type": "Smartphone",
-      "processor": "Octa-core 2.2GHz",
-      "memory": "128GB Storage",
-      "OS": "Android 11",
-      "details": "Samsung Galaxy F42 5G mobile was launched on 29th September 2021. The phone comes with a 90 Hz refresh rate 6.60-inch touchscreen display offering a resolution of 1080x2408 pixels. Samsung Galaxy F42 5G is powered by an octa-core MediaTek Dimensity 700 processor. It comes with 6GB, 8GB of RAM. The Samsung Galaxy F42 5G supports proprietary fast charging.",
-      "img": "https://i.ibb.co/Q9BP6sv/samsung-galaxy-f42-5g-removebg-preview.png"
-    },
-    {
-      "price": 14999,
-      "name": "OPPO A77",
-      "type": "Smartphone",
-      "processor": "Octa-core 2.4GHz",
-      "memory": "128GB Storage",
-      "OS": "Android 12",
-      "details": "Oppo A77 4G mobile was launched in August 2022. The phone comes with a 6.56-inch touchscreen display (HD+) at a pixel density of 269 pixels per inch (ppi). It comes with 4GB of RAM. The Oppo A77 4G runs Android 12 and is powered by a 5000mAh battery. The Oppo A77 4G supports Super VOOC fast charging.",
-      "img": "https://i.ibb.co/7khgDPw/20230207-1675767754-774783-removebg-preview.png"
-    },
-    {
-      "price": 19499,
-      "name": "Oppo F19 Pro",
-      "type": "Smartphone",
-      "processor": "Octa-core 2.2GHz",
-      "memory": "256GB Storage",
-      "OS": "Android 11",
-      "details": "Oppo F19 Pro mobile was launched on 8th March 2021. The phone comes with a 6.40-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9. The display sports Gorilla Glass for protection. Oppo F19 Pro is powered by an octa-core MediaTek Helio P95 (MT6779V/CV) processor. It comes with 8GB of RAM. The Oppo F19 Pro runs Android 11 and is powered by a 4310mAh battery. The Oppo F19 Pro supports VOOC fast charging.",
-      "img": "https://i.ibb.co/L6VznJm/Oppo-F19-Pro-Purple-removebg-preview.png"
-    },
-    {
-      "price": 11550,
-      "name": "Nokia G20",
-      "type": "Smartphone",
-      "processor": "MediaTek Helio G35",
-      "memory": "64GB Storage",
-      "OS": "Android 11",
-      "details": "The Nokia G20 runs near-stock Android with a guarantee of updates. This is a good-looking phone and it feels well built. There’s a 5,050mAh battery that easily lasts two days on a single charge, with casual use. However, beyond this, things start to fall apart. Despite going with a near-stock version of Android, software performance is sluggish, and most of the time the phone’s hardware appears to struggle to keep up with the software. Gaming performance is not great either, with most 3D games failing to run smoothly even at the lowest possible settings. The HD+ display falls quite short both in terms of quality and specifications.",
-      "img": "https://i.ibb.co/f0XYsNZ/Nokia-G20-removebg-preview.png"
-    },
-    {
-      "price": 39490,
-      "name": "Nokia 9 PureView",
-      "type": "Smartphone",
-      "processor": "Qualcomm Snapdragon 845",
-      "memory": "128GB Storage",
-      "OS": "Android 9.0 Pie",
-      "details": "Nokia 9 PureView mobile was launched on 25th February 2019. The phone comes with a 5.99-inch touchscreen display. The display sports Gorilla Glass for protection. Nokia 9 PureView is powered by an octa-core Qualcomm Snapdragon 845 processor. It comes with 6GB of RAM. The Nokia 9 PureView runs Android 9.0 Pie and is powered by a 3320mAh non-removable battery. The Nokia 9 PureView supports wireless charging.",
-      "img": "https://i.ibb.co/gWpPTHL/nokia-9-pureview-removebg-preview.png"
-    },
-    {
-      "price": 11999,
-      "name": "Nokia 8.1",
-      "type": "Smartphone",
-      "processor": "Qualcomm Snapdragon 710",
-      "memory": "64GB Storage",
-      "OS": "Android 9.0 Pie",
-      "details": "The Nokia 8.1 isn't a successor to the Nokia 8 or Nokia 8 Sirocco flagships. Instead, it's a premium model for those who want an upgrade from the usual low-cost fare. It's based on the new Qualcomm Snapdragon 710 processor, and boasts of an HDR10 display. The metal-and-glass body feels extremely sturdy and well-constructed, but the styling of this phone might not be everyone's cup of tea. General performance is very smooth and we had no complaints even when playing heavy games.",
-      "img": "https://i.ibb.co/4ZkCvSb/nokia-81-plus-removebg-preview.png"
-    },
-    {
-      "price": 18399,
-      "name": "HTC U23",
-      "type": "Smartphone",
-      "processor": "Qualcomm Snapdragon 7 Gen 1",
-      "memory": "128GB Storage",
-      "OS": "Android 13",
-      "details": "HTC U23 mobile was launched on 18th May 2023. The phone comes with a 120 Hz refresh rate 6.70-inch touchscreen display offering a resolution of 2400x1080 pixels (FHD+). HTC U23 is powered by an octa-core Qualcomm Snapdragon 7 Gen 1 processor. It comes with 8GB of RAM. The HTC U23 runs Android 13 and is powered by a 4600mAh non-removable battery. The HTC U23 supports wireless charging, as well as proprietary fast charging.",
-      "img": "https://i.ibb.co/5sv6Ycs/HTC-U23-Pro-Brown-removebg-preview.png"
-    },
-    {
-      "price": 16499,
-      "name": "HTC Desire 630",
-      "type": "Smartphone",
-      "processor": "Qualcomm Snapdragon 400",
-      "memory": "16GB Storage",
-      "OS": "Android 6.0",
-      "details": "HTC Desire 630 mobile was launched in February 2016. The phone comes with a 5.00-inch touchscreen display offering a resolution of 720x1280 pixels. HTC Desire 630 is powered by a 1.6GHz quad-core Qualcomm Snapdragon 400 processor. It comes with 2GB of RAM. The HTC Desire 630 runs Android 6.0 and is powered by a 2200mAh removable battery.",
-      "img": "https://i.ibb.co/XkVtLc9/htc-desire-630-removebg-preview.png"
-    },
-    {
-      "price": 46599,
-      "name": "Xiaomi 14 Pro",
-      "type": "Smartphone",
-      "processor": "Snapdragon 8 Gen 3",
-      "memory": "512GB Storage",
-      "OS": "Android 14",
-      "details": "Xiaomi 14 introduces a new chapter in industrial design, adopting industry-leading ultra-thin bezel design with incredibly advanced FIAA technology. This innovation achieves an exceptionally slim chin, providing users with an immersive visual experience. It is available in four distinct colors - Jade Green, Black, White, and Snow Mountain Pink - catering diverse preferences. In particular,",
-      "img": "https://i.ibb.co/0qtJxfX/xiaomi-14-removebg-preview.png"
-    }
-  ]
+  {
+    "price": 13499,
+    "name": "Realme C67 5G",
+    "type": "USB Type-C 2.0",
+    "processor": "2.2GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 13",
+    "details": "Realme C67 5G price starts from 13499. Realme C67 5G internal storage base variant of 4 GB, 6 GB Ram, 128 GB Internal Memory (ROM). Realme C67 5G which is available in Sunny Oasis, Dark Purple colour.",
+    "img": "https://i.ibb.co/bP5RPVG/1701853156155a108438623ad41aaa47d42a5ac637db5-removebg-preview.png"
+  },
+  {
+    "price": 7999,
+    "name": "Realme C51",
+    "type": "USB Type-C 2.0",
+    "processor": "1.8GHz Octa-core",
+    "memory": "64GB Storage",
+    "OS": "Android 13",
+    "details": "Realme C51 mobile was launched on 4th September 2023. The phone comes with a 90 Hz refresh rate 6.74-inch touchscreen display offering a resolution of 720x1600 pixels (HD). Realme C51 is powered by an octa-core Unisoc T612 processor. It comes with 4GB of RAM. The Realme C51 runs Android Android 13 and is powered by a 5000mAh non-removable battery. The Realme C51 supports 33W Fast Charging fast charging.",
+    "img": "https://i.ibb.co/XVwzhkz/16934543672112ab05f9df9a54e288460109ed2c55e29-removebg-preview.png"
+  },
+  {
+    "price": 108999,
+    "name": "Samsung Galaxy Z Fold4",
+    "type": "USB Type-C 2.0",
+    "processor": "1.9GHz Octa core",
+    "memory": "256GB RAM",
+    "OS": "Android 12",
+    "details": "Samsung Galaxy Z Fold 4 5G price in India starts from Rs. 108,999. The lowest price of Samsung Galaxy Z Fold 4 5G is Rs. 108,999 at amazon.in. This is 12 GB RAM / 256 GB internal storage base variant of Samsung Galaxy Z Fold 4 5G which is available in Graygreen, Phantom Black, Beige, Burgundy colour.",
+    "img": "https://i.ibb.co/93fHV1g/samsung-galaxy-z-fold4-removebg-preview.png"
+  },
+  {
+    "price": 85999,
+    "name": "Samsung Galaxy Tab S9+",
+    "type": "USB Micro-B 3",
+    "processor": "2.6GHz Octa-core",
+    "memory": "256GB Storage",
+    "OS": "Android 13",
+    "details": "Samsung Galaxy Tab S9+ tablet was launched on 26th July 2023. The tablet comes with a 12.40-inch touchscreen display. Samsung Galaxy Tab S9+ is powered by an octa-core Qualcomm Snapdragon 8 Gen 2 SoC for Galaxy processor. It comes with 12GB of RAM. The Samsung Galaxy Tab S9+ runs Android 13 and is powered by a 10090mAh battery.",
+    "img": "https://i.ibb.co/vk675CK/samsung-galaxy-tab-s9-plus-5g-removebg-preview.png"
+  },
+  {
+    "price": 32000,
+    "name": "Samsung Galaxy A15 5G",
+    "type": "USB Type-B 3.1",
+    "processor": "1.9GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 14",
+    "details": "Samsung Galaxy A15 5G price in India is expected to be from 32000. This mobile is rumoured to be an excellent phone with Mediatek MT6765 Helio P35 (12nm) processor, 6 GB of RAM, and 64 GB/128 GB of storage.",
+    "img": "https://i.ibb.co/P5XWC8y/samsung-galaxy-a15-5g-new-removebg-preview.png"
+  },
+  {
+    "price": 27999,
+    "name": "Samsung Galaxy Tab S6 Lite",
+    "type": "USB Type-B 3.1",
+    "processor": "1.7GHz octa-core",
+    "memory": "64GB Storage",
+    "OS": "Android 10",
+    "details": "The Galaxy Tab S6 Lite is a new addition to Samsung's tablet lineup. As its name suggests, this is a less expensive version of the Samsung Galaxy Tab S6, which I reviewed late last year. The Galaxy Tab S6 is very pricey but has an AMOLED display, quad speakers and a powerful processor, whereas the Galaxy Tab S6 Lite has a TFT display, dual speakers, and a somewhat weaker processor. The Galaxy Tab S6 Lite is available in Wi-Fi and LTE versions, priced at Rs. 27,999 and Rs. 31,999 respectively. Samsung has obviously had to cut costs with this new ‘Lite' version, but is it still good enough to recommend? Read on to find out.",
+    "img": "https://i.ibb.co/WD6fgmb/galaxy-tab-s6-lite-2022-lte-sm-p619-removebg-preview.png"
+  },
+  {
+    "price": 15149,
+    "name": "Samsung Galaxy F42 5G",
+    "type": "USB Micro-B 2.1",
+    "processor": "1.5GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 11",
+    "details": "Samsung Galaxy F42 5G mobile was launched on 29th September 2021. The phone comes with a 90 Hz refresh rate 6.60-inch touchscreen display offering a resolution of 1080x2408 pixels. Samsung Galaxy F42 5G is powered by an octa-core MediaTek Dimensity 700 processor. It comes with 6GB, 8GB of RAM. The Samsung Galaxy F42 5G supports proprietary fast charging.",
+    "img": "https://i.ibb.co/Q9BP6sv/samsung-galaxy-f42-5g-removebg-preview.png"
+  },
+  {
+    "price": 14999,
+    "name": "OPPO A77",
+    "type": "USB Type-C 2.0",
+    "processor": "1.6GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 12",
+    "details": "Oppo A77 4G mobile was launched in August 2022. The phone comes with a 6.56-inch touchscreen display (HD+) at a pixel density of 269 pixels per inch (ppi). It comes with 4GB of RAM. The Oppo A77 4G runs Android 12 and is powered by a 5000mAh battery. The Oppo A77 4G supports Super VOOC fast charging.",
+    "img": "https://i.ibb.co/7khgDPw/20230207-1675767754-774783-removebg-preview.png"
+  },
+  {
+    "price": 19499,
+    "name": "Oppo F19 Pro",
+    "type": "USB Micro-B 2.5",
+    "processor": "1.8GHz Octa-core",
+    "memory": "256GB Storage",
+    "OS": "Android 11",
+    "details": "Oppo F19 Pro mobile was launched on 8th March 2021. The phone comes with a 6.40-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9. The display sports Gorilla Glass for protection. Oppo F19 Pro is powered by an octa-core MediaTek Helio P95 (MT6779V/CV) processor. It comes with 8GB of RAM. The Oppo F19 Pro runs Android 11 and is powered by a 4310mAh battery. The Oppo F19 Pro supports VOOC fast charging.",
+    "img": "https://i.ibb.co/L6VznJm/Oppo-F19-Pro-Purple-removebg-preview.png"
+  },
+  {
+    "price": 11550,
+    "name": "Nokia G20",
+    "type": "USB Type-C 2.0",
+    "processor": "1.5GHz Octa-core",
+    "memory": "64GB Storage",
+    "OS": "Android 11",
+    "details": "The Nokia G20 runs near-stock Android with a guarantee of updates. This is a good-looking phone and it feels well built. There’s a 5,050mAh battery that easily lasts two days on a single charge, with casual use. However, beyond this, things start to fall apart. Despite going with a near-stock version of Android, software performance is sluggish, and most of the time the phone’s hardware appears to struggle to keep up with the software. Gaming performance is not great either, with most 3D games failing to run smoothly even at the lowest possible settings. The HD+ display falls quite short both in terms of quality and specifications.",
+    "img": "https://i.ibb.co/f0XYsNZ/Nokia-G20-removebg-preview.png"
+  },
+  {
+    "price": 39490,
+    "name": "Nokia 9 PureView",
+    "type": "USB Type-C 2.0",
+    "processor": "2.0GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 9",
+    "details": "Nokia 9 PureView mobile was launched on 25th February 2019. The phone comes with a 5.99-inch touchscreen display. The display sports Gorilla Glass for protection. Nokia 9 PureView is powered by an octa-core Qualcomm Snapdragon 845 processor. It comes with 6GB of RAM. The Nokia 9 PureView runs Android 9.0 Pie and is powered by a 3320mAh non-removable battery. The Nokia 9 PureView supports wireless charging.",
+    "img": "https://i.ibb.co/gWpPTHL/nokia-9-pureview-removebg-preview.png"
+  },
+  {
+    "price": 11999,
+    "name": "Nokia 8.1",
+    "type": "USB Type-C 2.0",
+    "processor": "1.5GHz Octa-core",
+    "memory": "64GB Storage",
+    "OS": "Android 9",
+    "details": "The Nokia 8.1 isn't a successor to the Nokia 8 or Nokia 8 Sirocco flagships. Instead, it's a premium model for those who want an upgrade from the usual low-cost fare. It's based on the new Qualcomm Snapdragon 710 processor, and boasts of an HDR10 display. The metal-and-glass body feels extremely sturdy and well-constructed, but the styling of this phone might not be everyone's cup of tea. General performance is very smooth and we had no complaints even when playing heavy games.",
+    "img": "https://i.ibb.co/4ZkCvSb/nokia-81-plus-removebg-preview.png"
+  },
+  {
+    "price": 18399,
+    "name": "HTC U23",
+    "type": "USB Micro-B 3 ",
+    "processor": "1.7GHz Octa-core",
+    "memory": "128GB Storage",
+    "OS": "Android 13",
+    "details": "HTC U23 mobile was launched on 18th May 2023. The phone comes with a 120 Hz refresh rate 6.70-inch touchscreen display offering a resolution of 2400x1080 pixels (FHD+). HTC U23 is powered by an octa-core Qualcomm Snapdragon 7 Gen 1 processor. It comes with 8GB of RAM. The HTC U23 runs Android 13 and is powered by a 4600mAh non-removable battery. The HTC U23 supports wireless charging, as well as proprietary fast charging.",
+    "img": "https://i.ibb.co/5sv6Ycs/HTC-U23-Pro-Brown-removebg-preview.png"
+  },
+  {
+    "price": 16499,
+    "name": "HTC Desire 630",
+    "type": "USB Type-B 3.1",
+    "processor": "1.5GHz Octa-core",
+    "memory": "16GB Storage",
+    "OS": "Android 6.0",
+    "details": "HTC Desire 630 mobile was launched in February 2016. The phone comes with a 5.00-inch touchscreen display offering a resolution of 720x1280 pixels. HTC Desire 630 is powered by a 1.6GHz quad-core Qualcomm Snapdragon 400 processor. It comes with 2GB of RAM. The HTC Desire 630 runs Android 6.0 and is powered by a 2200mAh removable battery.",
+    "img": "https://i.ibb.co/XkVtLc9/htc-desire-630-removebg-preview.png"
+  },
+  {
+    "price": 46599,
+    "name": "Xiaomi 14 Pro",
+    "type": "USB Type-C 2.0",
+    "processor": "1.9GHz Octa-core",
+    "memory": "512GB Storage",
+    "OS": "Android 14",
+    "details": "Xiaomi 14 introduces a new chapter in industrial design, adopting industry-leading ultra-thin bezel design with incredibly advanced FIAA technology. This innovation achieves an exceptionally slim chin, providing users with an immersive visual experience. It is available in four distinct colors - Jade Green, Black, White, and Snow Mountain Pink - catering diverse preferences. In particular,",
+    "img": "https://i.ibb.co/0qtJxfX/xiaomi-14-removebg-preview.png"
+  }
+]

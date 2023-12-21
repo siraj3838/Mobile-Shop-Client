@@ -1,5 +1,5 @@
 
-const AddPhone = () => {
+const PhoneDetails = () => {
     return (
         <div>
             
@@ -7,4 +7,4 @@ const AddPhone = () => {
     );
 };
 
-export default AddPhone;
+export default PhoneDetails;
