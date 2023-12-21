@@ -1,24 +1,22 @@
-// import { useQuery } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import useAxios from "../../Hook/useAxios";
 
 const Home = () => {
-    const [phones, setPhones] = useState([])
-    // const {data} = useQuery({
-    //     queryKey: ['order'],
-    //     queryFn: () =>{
-
-    //     }
-    // })
-    // console.log(data);
-
-    useEffect(() => {
-        fetch('allPhone.json')
-            .then(res => res.json())
-            .then(data => setPhones(data))
-    }, [])
+    // const [phones, setPhones] = useState([])
+    const axiosPublic = useAxios();
+    const {data: phones = []} = useQuery({
+        queryKey: ['order'],
+        queryFn: async () =>{
+            const res = await axiosPublic.get('/phones')
+            return res.data;
+        }
+    })
     console.log(phones);
+
+    
     return (
         <div>
             <form className="lg:max-w-screen-sm md:max-w-lg mx-auto xl:-mt-20 px-5 md:px-0">
@@ -40,7 +38,7 @@ const Home = () => {
                         </div>
                         <h2 className="text-sm font-semibold text-gray-500 mr-20 my-2 flex justify-between items-center"><img className="w-6" src="https://i.ibb.co/kSMx8bk/Screenshot-2023-12-21-133332-removebg-preview.png" alt="" /> <p>{phone.processor}</p></h2>
                         <h2 className="text-sm font-semibold text-gray-500 mr-[106px] flex justify-between items-center"><img className="w-6 h-6" src="https://i.ibb.co/xgtn44Q/Screenshot-2023-12-21-132847-removebg-preview.png" alt="" /> <p>{phone.type}</p></h2>
-                        <Link to={`/details/${idx}`}>
+                        <Link to={`/details/${phone.name}`}>
                             <button className=" hover:bg-[#eb8d22ec] bg-[#eb8d22ec] border-0 border-b-4 hover:border-gray-600 border-gray-600 text-white font-semibold hover:scale-110 duration-400 transition-all py-1.5 px-5 rounded-md mt-5">Details</button>
                         </Link>
                     </div>)
