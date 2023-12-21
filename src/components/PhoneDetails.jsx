@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import useAxios from "../Hook/useAxios";
 import { IoReturnUpBackSharp } from "react-icons/io5";
 import toast, { Toaster } from "react-hot-toast";
+import { Helmet } from "react-helmet-async";
 
 const PhoneDetails = () => {
     const axiosPublic = useAxios();
@@ -27,10 +28,15 @@ const PhoneDetails = () => {
                 position="top-center"
                 reverseOrder={false}
             />
+            <Helmet>
+                <title>
+                    Mobile Details || {nowPhone?.name ? nowPhone.name : ''}
+                </title>
+            </Helmet>
             <h2 className="text-3xl font-semibold lg:-mt-20 text-center bg-gradient-to-r from-orange-500 to-orange-200 text-transparent bg-clip-text">{nowPhone?.name}</h2>
             <div className="max-w-screen-xl mx-auto mt-7 px-5">
                 <Link to={'/'}>
-                    <button className="text-5xl bg-base-300 px-2 rounded-lg text-orange-500">
+                    <button className="text-4xl bg-base-300 px-4 rounded-lg text-orange-500">
                         <IoReturnUpBackSharp></IoReturnUpBackSharp>
                     </button>
                 </Link>
