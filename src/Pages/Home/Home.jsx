@@ -4,11 +4,10 @@ import { useState } from "react";
 import usePhones from "../../Hook/usePhones";
 
 const Home = () => {
-
     const [search, setSearch] = useState([])
 
     const phones = usePhones(search);
-    
+
     const handleMobileSearch = e => {
         e.preventDefault();
         const form = e.target;
@@ -16,6 +15,7 @@ const Home = () => {
         setSearch(searchText);
     }
     
+
     return (
         <div>
             <form onSubmit={handleMobileSearch} className="lg:max-w-screen-sm md:max-w-lg mx-auto xl:-mt-20 px-5 md:px-0">
