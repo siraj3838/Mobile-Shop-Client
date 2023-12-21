@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
     const navList = <>
@@ -10,7 +10,7 @@ const Navbar = () => {
         >
             Home
         </NavLink>
-        
+
     </>
     return (
         <div className="">
@@ -26,7 +26,9 @@ const Navbar = () => {
                     </div>
                     <div className="flex items-center md:gap-96 lg:gap-36">
                         {/* Website Logo */}
-                        <img className="w-44" src="https://i.ibb.co/YPpX4Zw/1694337400-devtown-removebg-preview.png" alt="" />
+                        <Link to={'/'}>
+                            <img className="w-44" src="https://i.ibb.co/YPpX4Zw/1694337400-devtown-removebg-preview.png" alt="" />
+                        </Link>
 
                     </div>
                 </div>
@@ -36,7 +38,7 @@ const Navbar = () => {
                     </ul>
                 </div>
             </div>
-            
+
         </div>
     );
 };
